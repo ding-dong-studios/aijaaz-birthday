@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'MyCustomFont';
   src: url('./fonts/CatsFont-Regular.woff2') format('woff2');
-  font-weight: 400;
+  font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
