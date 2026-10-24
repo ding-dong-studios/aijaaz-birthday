@@ -2,12 +2,24 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #FFF1E6; /* Warm creamy peach */
-    color: #5C4033; /* Warm dark brown */
+    /* background-color: #ffffff; */
+    /* background-image: url("https://w.wallhaven.cc/full/j8/wallhaven-j891d5.jpg"); */
+    color: #e2a8a8; /* Warm dark brown */
+}
+
+#sec1 {
+    background-image: url("./img/bg.png");
+}
+
+#countdown {
+    font-family: 'Cats Font';
 }
 
 .font-anime {
-    font-family: 'Mochiy Pop One', sans-serif;
+    /* font-family: 'Magazine Letter By Brntlbrnl', sans-serif; */
+    font-family: 'Cats Font';
+    font-size: 110px;
+    color: #e2a8a8;
 }
 
 .text-sakura {
