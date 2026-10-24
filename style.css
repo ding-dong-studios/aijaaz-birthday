@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Cats Font';
-    src: url('./fonts/CatsFont-Regular.woff2') format('woff2');
+    src: url('./fonts/CatsFont-Regular.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
