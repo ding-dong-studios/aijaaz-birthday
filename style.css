@@ -1,16 +1,16 @@
-@font-face {
-    font-family: 'myfont';
-    src: url('./fonts/CatsFont-Regular.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
 
+@font-face {
+  font-family: 'MyCustomFont';
+  src: url('./fonts/CatsFont-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
 
 body {
     font-family: 'Poppins', sans-serif;
     /* background-color: #ffffff; */
-    /* background-image: url("https://w.wallhaven.cc/full/j8/wallhaven-j891d5.jpg"); */
+    /* background-image: url("https://w.wallhaven.cc/full/j8/wallhaven-j891d5.jpg"); */ 
     color: #e2a8a8; /* Warm dark brown */
 }
 
@@ -19,7 +19,7 @@ body {
 }
 
 #countdown {
-    font-family: 'myfont', sans-serif;
+    font-family: 'MyCustomFont', sans-serif;
 }
 
 #wishvid {
@@ -29,7 +29,7 @@ body {
 
 .font-anime {
     /* font-family: 'Magazine Letter By Brntlbrnl', sans-serif; */
-    font-family: 'myfont';
+    font-family: 'MyCustomFont';
     font-size: 120px;
     color: #e2a8a8;
 }
