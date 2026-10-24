@@ -21,6 +21,10 @@ body {
     border-radius: 10px;
 }
 
+#msgbox {
+    margin-bottom: 50px;
+}
+
 .font-anime {
     /* font-family: 'Magazine Letter By Brntlbrnl', sans-serif; */
     font-family: 'Cats Font';
