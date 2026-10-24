@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'Cats Font';
-    src: url('./fonts/CatsFont-Regular.ttf') format('ttf');
+    font-family: 'myfont';
+    src: url('./fonts/CatsFont-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -19,7 +19,7 @@ body {
 }
 
 #countdown {
-    font-family: 'Cats Font';
+    font-family: 'myfont', sans-serif;
 }
 
 #wishvid {
@@ -29,7 +29,7 @@ body {
 
 .font-anime {
     /* font-family: 'Magazine Letter By Brntlbrnl', sans-serif; */
-    font-family: 'Cats Font';
+    font-family: 'myfont';
     font-size: 120px;
     color: #e2a8a8;
 }
